@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Right{
+    background-color: violet;
+    height: 800px;
+    width: 20%;
+    text-align: center;
+    float: right;
+}
+.Right h1{
+    padding-top: 400px;
+}
+.Right h1{
+    color: black;
+}
+.header{
+    background-color: plum;
+    height: 150px;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+.header h1{
+    padding-top: 50px;
+}
+.navigationBar{
+    background-color: blueviolet;
+    height: 100px;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+.navigationBar h1{
+    color: white;
+    padding-top: 30px;
+}
+.mainContent{
+    background-color: white;
+    height: 400px;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+.mainContent h1{
+    padding-top: 190px;
+}
+.footer{
+    background-color: blueviolet;
+    height: 150px;
+    width: 80%;
+    float: left;
+    text-align: center;
+}
+.footer h1{
+padding-top: 50px;
+}
